@@ -1,7 +1,13 @@
-## Hi there 👋
+# Hi there 👋
 I'm Jihoon Park
 
-### Tech Stack
+## 🧑‍💻 Tech Stack
+<img src="https://skillicons.dev/icons?i=dart,flutter,firebase,figma" alt="Tech Stack" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlgnsdl815&layout=compact&theme=tokyonight&langs_count=6" /> 
+
+## 🔥 GitHub Stats
+[![Jihoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=wlgnsdl815)](https://github.com/wlgnsdl815/github-readme-stats)
 
 
 <!--
