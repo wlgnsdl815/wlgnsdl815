@@ -7,8 +7,7 @@ I'm Jihoon Park
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlgnsdl815&layout=compact&theme=tokyonight&langs_count=6" /> 
 
 ## 🔥 GitHub Stats
-[![Jihoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=wlgnsdl815)](https://github.com/wlgnsdl815/github-readme-stats)
-
+![Jihoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=wlgnsdl815&show_icons=true&theme=tokyonight)
 
 <!--
 **wlgnsdl815/wlgnsdl815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
