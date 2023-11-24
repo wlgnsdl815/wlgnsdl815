@@ -1,4 +1,4 @@
-![flutter](https://github.com/wlgnsdl815/wlgnsdl815/assets/80227700/07b632c1-4f58-4bd9-8b7d-525182d3dedd)## Hi there 👋
+## Hi there 👋
 I'm Jihoon Park
 
 ### Tech Stack
