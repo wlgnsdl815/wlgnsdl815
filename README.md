@@ -4,7 +4,7 @@ I'm Jihoon Park
 I've recently started exploring Flutter and aim to become a Flutter developer. I have a strong interest in Dart and Flutter.
 
 ## 🧑‍💻 Tech Stack
-<img src="https://skillicons.dev/icons?i=dart,flutter,firebase,figma" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=dart,flutter,figma,firebase" alt="Tech Stack" />
 
 ## 🔥 GitHub Stats
 <div style="display: flex; justify-content: space-between;">
